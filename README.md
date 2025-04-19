@@ -9,7 +9,7 @@ A lightweight, mobile-friendly calendar and scheduling system for coordinating s
 ## 🗂 Directory Layout
 
 ```
-5678/                          → Root folder of the app
+schedule/                          → Root folder of the app
 ├── ajax/                     → AJAX endpoints (venue/band search, updates)
 │   ├── add_band.php
 │   ├── add_new_band.php
