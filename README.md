@@ -97,9 +97,9 @@ schedule/                          → Root folder of the app
 
 ---
 
-## 📦 Optional: ZIP-Based Deployment
+## 📦 ZIP-Based Deployment
 
-You can bundle your app into a ZIP and share it directly (for example, to other bandmates). A helper script (`zip_backup.php`) can be added to snapshot your full app directory into a downloadable ZIP archive.
+You can bundle your app into a ZIP and share it directly (for example, to other bandmates).
 
 ---
 
